@@ -2,4 +2,4 @@ What happens when you initialize a repository? Why do you need to do it?
 	You initialize git - tracking of files.
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
-	One can commit several files together with logical comments.
+	One can commit several files together with logical comments
