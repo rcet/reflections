@@ -1,0 +1,18 @@
+git clone "html..."
+	Copy repository
+
+git diff oldfile newfile
+	Compare commits
+
+git diff --staged 
+	compare stage to head
+
+git reset --hard
+	discard changes that are not commited.
+
+git log
+	see log
+
+git checkout 
+	chcek into a branch
+
