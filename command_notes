@@ -13,6 +13,29 @@ git reset --hard
 git log
 	see log
 
-git checkout 
+git checkout branchnamehere
 	chcek into a branch
 
+git branch branchnamehere
+	make new branch
+
+git branch
+	check which branchs available
+
+git log --graph --oneline master branchnamehere.
+	visualize history.
+
+git checkout -b branchname 
+	branch and checkout i ett!
+
+git show 
+	compare branch with its parent
+
+git merge master other
+	merge inn
+
+git branch -d branchnamehere
+	delete branch
+
+git log -n 1
+	show n amount of logs.
